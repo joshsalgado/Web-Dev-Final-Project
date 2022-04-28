@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Festive&display=swap");
+  
+
+
+body {
+  background-image: url(https://imgix.ranker.com/list_img_v2/9748/309748/original/7-intolerably-cute-baby-monkey-videos?w=817&h=427&fm=jpg&q=50&fit=crop);
+  background-size: 100px;
+}
+
+.inback {
+  background-color: purple;
+}
+
+#titlefont {
+  font-size: 100px;
+  font-family: "Festive", cursive;
+  color: pink;
+}
+
+img {
+  border: 10px solid #dddddd;
+  margin: 20px;
+  padding: 2vw;
+  border-color: brown;
+  border-radius: 50%;
+}
+
+p {
+  border: 6px double;
+}
+
+p > span {
+  color: blue;
+  font-size: 30px;
+}
+
+.container {
+  background: orange;
+  display: flex;
+}
+
+#thisone {
+  background: LawnGreen;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+#theeone {
+  background: DeepPink;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.thatone {
+  background: Blue;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+
